@@ -20,7 +20,7 @@ require 'pry'
 
 def reverse_each_word(arg)
   my_arr = arg.split
-  my_arr.collect { |n| n.reverse }
+  result = my_arr.collect { |n| n.reverse }
   binding.pry
 end
 
