@@ -1,3 +1,4 @@
+require 'pry'
 # def reverse_each_word(arg)
 #   # result = []
 #   my_arr = arg.split
