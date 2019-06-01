@@ -4,4 +4,4 @@ def reverse_each_word(arg)
   result.join (" ")
 end
 
-puts reverse_each_word("Hello there, and how are you?")
+# puts reverse_each_word("Hello there, and how are you?")
