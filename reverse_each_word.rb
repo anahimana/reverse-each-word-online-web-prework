@@ -6,7 +6,6 @@ def reverse_each_word(arg)
     result << word.reverse
   end
   result.join(" ")
-  my_arr
 end
 
 
