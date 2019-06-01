@@ -3,7 +3,7 @@ def reverse_each_word(arg)
   my_arr = arg.split
   my_arr.collect_concat do |word|
     word.reverse
-    word my_arr
+    puts word
   end
 
   # my_arr.each do |word|
