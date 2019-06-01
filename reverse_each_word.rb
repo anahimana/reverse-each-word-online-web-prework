@@ -1,11 +1,7 @@
 require 'pry'
 def reverse_each_word(arg)
-  # result = []
+  result = []
   my_arr = arg.split
-  my_arr.collect_concat do |word|
-    result << word.reverse
-  end
-
   # my_arr.each do |word|
   #   result << word.reverse
   # end
