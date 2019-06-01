@@ -8,7 +8,7 @@ def reverse_each_word(arg)
   #   result << word.reverse
   # end
   # result.join(" ")
-  
+  my_arr
 end
 
 # reverse_each_word("Hello there, and how are you?")
