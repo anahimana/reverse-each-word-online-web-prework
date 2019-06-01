@@ -12,7 +12,7 @@
 #   # my_arr
 # end
 
-reverse_each_word("Hello there, and how are you?")
+
 
 # nums.collect { |n| n * n }
 
@@ -21,3 +21,5 @@ def reverse_each_word(arg)
   arg.split
   arg.collect { |n| n * n }
 end
+
+reverse_each_word("Hello there, and how are you?")
