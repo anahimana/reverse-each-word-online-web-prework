@@ -18,6 +18,7 @@ reverse_each_word("Hello there, and how are you?")
 
 
 def reverse_each_word(arg)
+  arg.split
 nums.collect { |n| n * n }
 
 end
